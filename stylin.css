@@ -30,9 +30,7 @@ table   {
     width: 60%;
 
 }
-h1  {
-    text-align: center;
-}
+
 /*https://stackoverflow.com/questions/16647221/css-of-specific-table-row*/
 
 tbody tr:nth-child(even)    {
